@@ -1,0 +1,38 @@
+*{
+    background-color:black;
+}
+
+body {
+    color: rgb(240, 240, 247);
+}
+
+h1 {
+    color: rgb(246, 248, 246);
+}
+
+.we{
+height: 20px;
+width: 20px;
+}
+
+.biosec{
+margin: auto;
+    width: 40%;
+}
+
+.divtext{
+margin: auto;
+    width: 80%;
+}
+
+nav{
+    font-family: "Roboto", Light 300;
+    text-align:center;
+    
+}
+
+
+.footset{
+    margin: auto;
+        width: 20%;
+}
